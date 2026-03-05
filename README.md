@@ -6,9 +6,9 @@
 Example: git checkout MothersDay-Mangubat,Lim
 git checkout [Your-Parent-Branch]
 
-3. Create and switch to your private Child branch
-Example: "git checkout -b dev/mangubat-mothers-day"
-git checkout -b dev/[yourname]-[feature]
+3. Switch to your private Child branch
+Example: "git checkout dev/mangubat-mothers-day"
+git checkout dev/[yourname]-[feature]
 
 5. Check what files you changed "git status"
 
