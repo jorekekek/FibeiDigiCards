@@ -1,6 +1,6 @@
 # Fibeidigiecards-
 1. Update your local branch list
-git fetch origin
+"git fetch origin"
 
 2. Switch to your team's shared Parent branch
 Example: git checkout MothersDay-Mangubat,Lim
