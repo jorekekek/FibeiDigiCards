@@ -10,15 +10,13 @@ git checkout [Your-Parent-Branch]
 Example: git checkout -b dev/mangubat-mothers-day
 git checkout -b dev/[yourname]-[feature]
 
-Check what files you changed
-git status
+4. Check what files you changed "git status"
 
-Stage your changes
-git add .
+5. Stage your changes "git add"
 
-Save with a clear message
+6. Save with a clear message
 git commit -m "feat: added responsive navigation bar"
 
-Push to your private branch on GitHub
+7. Push to your private branch on GitHub
 git push origin dev/[yourname]-[feature]
 
