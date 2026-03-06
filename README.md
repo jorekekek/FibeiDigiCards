@@ -1,12 +1,24 @@
 # Fibeidigiecards-
-1. Update your local branch list
+1. Clone a Repository
+Cloning creates a copy of the remote repository on your local computer.
+
+Command:
+git clone <repository-url>
+
+Example:
+git clone https://github.com/Seanicks/Fibeidigiecards-.git
+
+After cloning, move into the project folder:
+cd project-name
+
+2. Update your local branch list
 "git fetch origin"
 
-2. Switch to your team's shared Parent branch
+3. Switch to your team's shared Parent branch
 Example: git checkout MothersDay-Mangubat,Lim
 git checkout [Your-Parent-Branch]
 
-3. Switch to your private Child branch
+4. Switch to your private Child branch
 Example: "git checkout dev/mangubat-mothers-day"
 git checkout dev/[yourname]-[feature]
 
